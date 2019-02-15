@@ -20,7 +20,7 @@ export default () => (
   <Carousel>
     <div>
       <img src={scout4} />
-      <p className="legend">Scout's first time exploring the state of Virginia</p>
+      <p className="legend">Scout&#39;s first time exploring the state of Virginia</p>
     </div>
     <div>
       <img src={scout5} />
