@@ -33,11 +33,11 @@ export default () => (
     <div>
       <img src={scout1} />
       <p className="legend" >And one must also be ready to answer a plethora of questions: 
-      "um, is that a cat?"</p>
+      &#34;um, is that a cat?&#34;</p>
     </div>
     <div>
       <img src={scout3} />
-      <p className="legend">"Why yes, it is a cat!"</p>
+      <p className="legend">&#34;Why yes, it is a cat!&#34;</p>
     </div>
     <div>
       <img src={scout6} />
