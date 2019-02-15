@@ -1,4 +1,5 @@
 Date: Feb 15, 2019
+
 Author: Yasmine Kotturi
 
 This project presents an image carousel of Scout, my cat, adventuring. It bootstraps a React image carousel package 
