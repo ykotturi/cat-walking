@@ -12,8 +12,10 @@ import scout5 from './images/scout5.jpg';
 import scout6 from './images/scout6.jpg';
 import './index.css'; 
 
-//here we are
-//insert 'autoPlay' within Carousel component if you'd like to autoadvance
+//here we are calling the Carousel component from the installed node module 
+//(react-responsive carousel -- linked in README).
+//If you'd like the image carousel to auto advnace, insert 'autoPlay' as parameter
+//in the Carousel component call: <Carousel autoPlay>
 export default () => (
   <Carousel>
     <div>
@@ -30,7 +32,8 @@ export default () => (
     </div>
     <div>
       <img src={scout1} />
-      <p className="legend" >And one must also be ready to answer a plethora of questions: "um, is that a cat?"</p>
+      <p className="legend" >And one must also be ready to answer a plethora of questions: 
+      "um, is that a cat?"</p>
     </div>
     <div>
       <img src={scout3} />
@@ -38,7 +41,7 @@ export default () => (
     </div>
     <div>
       <img src={scout6} />
-      <p className="legend">A very happy cat.</p>
+      <p className="legend">A very curious cat.</p>
     </div>
   </Carousel>
 );
