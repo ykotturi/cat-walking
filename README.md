@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Date: Feb 15, 2019
+Author: Yasmine Kotturi
+
+This project presents an image carousel of Scout, my cat, adventuring. It bootstraps a React image carousel package 
+(https://www.npmjs.com/package/react-responsive-carousel) and also was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Other sources used are commented throughout source code.
 
 ## Available Scripts
 

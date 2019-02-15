@@ -1,3 +1,6 @@
+/*sources used*/
+/*https://stackoverflow.com/questions/20061774/rotate-an-image-in-image-source-in-html*/
+
 body {
   margin: 0;
   padding: 0;
@@ -11,4 +14,17 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+img {
+    max-width:60%;
+    height:auto;
 }
