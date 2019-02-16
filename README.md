@@ -7,6 +7,8 @@ This project presents an image carousel of Scout, my cat, adventuring. It bootst
 
 ## Available Scripts
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ykotturi/cat-walking.svg)](https://greenkeeper.io/)
+
 In the project directory, you can run:
 
 ### `npm start`
